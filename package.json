@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "canvas": "^3.0.0-rc2",
+    "sharp": "^0.33.5"
+  }
+}
